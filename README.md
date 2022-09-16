@@ -1,4 +1,5 @@
-### Olá, Meu nome é Guilherme Gommes! sou Programador front-end, Game dev e Artista! 
+### Olá, Meu nome é Guilherme Gommes! 
+Sou Programador front-end, Game dev e Artista! 
 
 ##
 <div>
