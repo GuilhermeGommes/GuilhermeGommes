@@ -1,7 +1,14 @@
-### Olá, Meu nome é Guilherme Gommes! 
-Sou Programador front-end, Game dev e Artista! 
+## Olá, Meu nome é Guilherme Gommes! 
+## Estou em busca da minha primeira vaga como Júnior. 
 
-##
+<di align="center" display="inline-block">
+💻 Front-end |
+🎮 Game development |
+🎨 Pixel art |
+💼 Freelancer 
+</div>
+
+
 <div>
 <div align="center" display="inline-block">
   <img height="180em" width= "420px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGommes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
